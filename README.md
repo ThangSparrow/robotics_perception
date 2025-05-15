@@ -42,7 +42,7 @@ After that, it will provide visualize over following link: http://localhost:7000
 
 4. Execuate task 2
 ```bash
-python3 src/task_2/
+python3 src/task_2/train_segmantation_model.py
 ```
 
 ## My approach

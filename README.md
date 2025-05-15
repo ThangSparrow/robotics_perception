@@ -99,7 +99,7 @@ At this step I tune:
 
 Actually I am not very happy with this approach. I rely deeply on the assumption that the box lays on a flat ground with slope approximately equal to 0*. I also get rid of the vertical 3d points belong to the box which are valueable for pose estimation.
 
-My next step would be to train a model to detect all the points that actually belong to the box.
+My next step would be to train a model (task 2) to detect all the points that actually belong to the box.
 
 ### Task 2
 
